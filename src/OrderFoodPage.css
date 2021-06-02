@@ -1,0 +1,46 @@
+
+
+.root{
+    -fx-background-color: #383838;
+    -fx-background-image: url("orderFoodImage.jpg");
+    -fx-background-color: transparent;
+    -fx-background-size: 820 620;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.label{
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+}
+.button{
+    -fx-background-color: #BDC3C7;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 4;
+}
+.button-special{
+    -fx-background-color: #BDC3C7;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 4;
+
+    -fx-font-size: 30;
+}
+
+.button:pressed {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.button:visited {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.button:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+#bold-label{
+    -fx-font-weight: bold;
+}

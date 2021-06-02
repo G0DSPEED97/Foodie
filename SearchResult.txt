@@ -1,0 +1,13 @@
+Dhanmondi 3
+Drinks 3 6
+Chillox Zigatala 40
+PastaState Dhanmondi 30
+Sultan'sDine Zigatala 30
+Takeout Dhanmondi 35
+ShahiJuiceCorner Lalbagh 50
+TheDiningLounge Khilgaon 40
+FrenchFries 2 2
+Chillox Zigatala 90
+Takeout Dhanmondi 100
+Pasta 3 1
+PastaState Dhanmondi 250

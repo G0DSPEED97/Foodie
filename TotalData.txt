@@ -1,0 +1,29 @@
+Chillox Zigatala 3
+Burger 180
+FrenchFries 90
+Drinks 40
+PastaState Dhanmondi 3
+Pasta 250
+Pizza 450
+Drinks 30
+Sultan'sDine Zigatala 3
+Biriyani 599
+LunchItems 799
+Drinks 30
+Takeout Dhanmondi 3
+Burger 250
+FrenchFries 100
+Drinks 35
+ShahiJuiceCorner Lalbagh 1
+Drinks 50
+MrBaker Mirpur 1
+Pastry 130
+Nutrient Mirpur 1
+Pastry 150
+TheDiningLounge Khilgaon 2
+Pizza 1099
+Drinks 40
+Sbarro Uttara 1
+Pizza 2099
+AlKaderia Badda 1
+LunchItems 250

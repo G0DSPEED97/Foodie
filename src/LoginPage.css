@@ -1,0 +1,38 @@
+.root{
+    -fx-background-image: url("foodie.jpg"), url("header.png");
+    -fx-background-color: transparent;
+    -fx-background-size: 800 600, 320 180;
+    -fx-background-position: center, top center;
+    -fx-background-repeat: no-repeat, no-repeat;
+    //-fx-opacity: 0.5;
+}
+
+.label{
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+}
+.button{
+    -fx-background-color: #55262626;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+    -fx-font-size: 12;
+    -fx-font-weight: bold;
+}
+.red-label{
+    -fx-text-fill: #AA0000;
+    -fx-font-size: 12;
+}
+.button:pressed {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.button:visited {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.button:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}

@@ -1,0 +1,62 @@
+
+
+.root{
+    -fx-background-color: #383838;
+    -fx-background-image: url("burger.jpeg"), url("headerPic.jpg");
+    -fx-background-color: transparent, transparent;
+    -fx-background-size: 400 400, 800 180;
+    -fx-background-position: right bottom, top center;
+    -fx-background-repeat: no-repeat, no-repeat;
+//-fx-opacity: 0.5;
+}
+
+.label{
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+}
+
+.label-special{
+
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+
+    -fx-font-size: 20;
+}
+
+.label-bold{
+
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+
+}
+
+.button{
+    -fx-background-color: #BDC3C7;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 4;
+}
+.button-special{
+    -fx-background-color: #BDC3C7;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 4;
+
+    -fx-font-size: 20;
+}
+#bold-label{
+    -fx-font-weight: bold;
+}
+
+.button:pressed {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.button:visited {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.button:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
